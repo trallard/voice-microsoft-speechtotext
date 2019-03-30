@@ -3,7 +3,7 @@
   "description": "Example using the Microsoft Azure Speech Service API to detect spoken language via phone call in real time and output the result to the console",
   "keywords": ["speech to text", "realtime", "python", "azure", "nexmo"],
   "website": "https://developer.nexmo.com/extend/azure-speech-to-text",
-  "repository": "https://github.com/nexmo-community/voice-microsoft-speechtotext",
+  "repository": "https://github.com/trallard/voice-microsoft-speechtotext.git",
   "env": {
     "HOSTNAME": {
       "description": "The hostname of the app once deployed to Heroku"
